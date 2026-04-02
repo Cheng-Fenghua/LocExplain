@@ -19,8 +19,8 @@ LocExplain/<br>
 │   ...<br>
 │   ├── utils.py<br>
 
-The whole LocExplain (paronamas) can be accessed via link: <br>
-The whole LocKnowledge can be accessed via link: 
+The whole LocExplain (paronamas) can be accessed via link: https://drive.google.com/file/d/1eVWh9Tywohw-wz9VgNRr3JST42nhzmky/view?usp=sharing<br>
+The whole LocKnowledge can be accessed via link: https://drive.google.com/file/d/19A6tCIFUfW6YbAKY-bnEqFxpExGPsghi/view?usp=sharing
 
 LocExplain_explanations.json - provides ground truth explanations<br>
 LocExplain_train_test_split.json - provides ground truth explanations<br>
